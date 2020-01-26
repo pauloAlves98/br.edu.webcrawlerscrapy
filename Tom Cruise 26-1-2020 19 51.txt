@@ -1,0 +1,176 @@
+Titulo:The Mummy
+Ano:2017
+Elenco:Tom Cruise, Sofia Boutella, Annabelle Wallis
+Duracao:110min
+Tipo:Filme
+Link:https://megafilmes.org/a-mumia-2/
+
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Titulo:Interview with the Vampire: The Vampire Chronicles
+Ano:1994
+Elenco:Brad Pitt, Tom Cruise, Antonio Banderas
+Duracao:123min
+Tipo:Filme
+Link:https://megafilmes.org/entrevista-com-o-vampiro/
+
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Titulo:The Last Samurai
+Ano:2003
+Elenco:Tom Cruise, Ken Watanabe, Billy Connolly
+Duracao:154min
+Tipo:Filme
+Link:https://megafilmes.org/o-ultimo-samurai/
+
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Titulo:Oblivion
+Ano:2013
+Elenco:Tom Cruise, Morgan Freeman, Andrea Riseborough 
+Duracao:124min
+Tipo:Filme
+Link:https://megafilmes.org/oblivion/
+
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Titulo:Jack Reacher
+Ano:2012
+Elenco:Tom Cruise, Rosamund Pike, Richard Jenkins
+Duracao:130min
+Tipo:Filme
+Link:https://megafilmes.org/jack-reacher-o-ultimo-tiro/
+
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Titulo:The Firm
+Ano:1993
+Elenco:Tom Cruise, Jeanne Tripplehorn, Gene Hackman
+Duracao:154min
+Tipo:Filme
+Link:https://megafilmes.org/a-firma/
+
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Titulo:Mission: Impossible - Rogue Nation
+Ano:2015
+Elenco:Tom Cruise, Jeremy Renner, Simon Pegg
+Duracao:131min
+Tipo:Filme
+Link:https://megafilmes.org/missao-impossivel-nacao-secreta/
+
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Titulo:Mission: Impossible - Ghost Protocol
+Ano:2011
+Elenco:Tom Cruise, Jeremy Renner, Simon Pegg
+Duracao:132min
+Tipo:Filme
+Link:https://megafilmes.org/missao-impossivel-protocolo-fantasma/
+
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Titulo:Mission: Impossible III
+Ano:2006
+Elenco:Tom Cruise, Michelle Monaghan, Ving Rhames
+Duracao:126min
+Tipo:Filme
+Link:https://megafilmes.org/missao-impossivel-3/
+
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Titulo:Mission: Impossible II
+Ano:2000
+Elenco:Tom Cruise, Dougray Scott, Thandie Newton 
+Duracao:123min
+Tipo:Filme
+Link:https://megafilmes.org/missao-impossivel-2/
+
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Titulo:Mission: Impossible
+Ano:1996
+Elenco:Tom Cruise, Jon Voight, Emmanuelle Béart 
+Duracao:110min
+Tipo:Filme
+Link:https://megafilmes.org/missao-impossivel/
+
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Titulo:Top Gun
+Ano:1986
+Elenco:Tom Cruise, Tim Robbins, Kelly McGillis 
+Duracao:110min
+Tipo:Filme
+Link:https://megafilmes.org/top-gun-ases-indomaveis/
+
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Titulo:Minority Report
+Ano:2002
+Elenco:Tom Cruise, Colin Farrell, Samantha Morton
+Duracao:145min
+Tipo:Filme
+Link:https://megafilmes.org/minority-report-a-nova-lei/
+
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Titulo:Mission: Impossible - Fallout
+Ano:2018
+Elenco:Rebecca Ferguson, Tom Cruise, Vanessa Kirby
+Duracao:147min
+Tipo:Filme
+Link:https://megafilmes.org/missao-impossivel-efeito-fallout/
+
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Titulo:Days of Thunder
+Ano:1990
+Elenco:Tom Cruise, Nicole Kidman, Robert Duvall
+Duracao:107min
+Tipo:Filme
+Link:https://megafilmes.org/dias-de-trovao/
+
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Titulo:Collateral
+Ano:2004
+Elenco:Tom Cruise, Jamie Foxx, Jada Pinkett Smith
+Duracao:120min
+Tipo:Filme
+Link:https://megafilmes.org/colateral/
+
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Titulo:Edge of Tomorrow
+Ano:2014
+Elenco:Tom Cruise, Emily Blunt, Bill Paxton
+Duracao:113min
+Tipo:Filme
+Link:https://megafilmes.org/no-limite-do-amanha/
+
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Titulo:American Made
+Ano:2017
+Elenco:Tom Cruise, Domhnall Gleeson, Sarah Wright
+Duracao:115min
+Tipo:Filme
+Link:https://megafilmes.org/feito-na-america/
+
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Titulo:Valkyrie
+Ano:2008
+Elenco:Tom Cruise, Bill Nighy, Carice van Houten
+Duracao:121min
+Tipo:Filme
+Link:https://megafilmes.org/operacao-valquiria/
+
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Titulo:Jack Reacher: Never Go Back
+Ano:2016
+Elenco:Tom Cruise, Cobie Smulders, Aldis Hodge
+Duracao:118min
+Tipo:Filme
+Link:https://megafilmes.org/jack-reacher-sem-retorno/
+
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Titulo:Vanilla Sky
+Ano:2001
+Elenco:Tom Cruise, Penélope Cruz, Cameron Diaz
+Duracao:136min
+Tipo:Filme
+Link:https://megafilmes.org/vanilla-sky/
+
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Titulo:War of the Worlds
+Ano:2005
+Elenco:Tom Cruise, Dakota Fanning, Tim Robbins
+Duracao:116min
+Tipo:Filme
+Link:https://megafilmes.org/guerra-dos-mundos/
+
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
