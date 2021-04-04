@@ -13,7 +13,11 @@ BOT_NAME = 'megafilmes'
 
 SPIDER_MODULES = ['megafilmes.spiders']
 NEWSPIDER_MODULE = 'megafilmes.spiders'
-
+ITEM_PIPELINES = {
+    'megafilmes.pipelines.MegafilmesPipeline': 1, #vou baixar as img no pipe line de outro jeito.
+    #'scrapy.pipelines.images.ImagesPipeline': 1 #usar seguindo scrapy normal.
+}
+IMAGES_STORE = 'images/'
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'megafilmes (+http://www.yourdomain.com)'
