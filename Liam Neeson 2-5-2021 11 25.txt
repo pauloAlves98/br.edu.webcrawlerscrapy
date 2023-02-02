@@ -1,0 +1,270 @@
+'ano': '2021',
+ 'duracao': '107min',
+ 'elenco': 'Katheryn Winnick, Liam Neeson, Teresa Ruiz',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2021/04/634528-240x320.jpg',
+ 'link': 'https://megafilmes.org/na-mira-do-perigo/',
+ 'nomeArquivo': 'Liam Neeson 2-5-2021 11 25',
+ 'tipo': 'Filme',
+ 'titulo': 'The Marksman'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2020',
+ 'duracao': '91min',
+ 'elenco': 'Liam Neeson, Kate Walsh, Jai Courtney ',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2020/12/553604-240x320.jpg',
+ 'link': 'https://megafilmes.org/legado-explosivo/',
+ 'nomeArquivo': 'Liam Neeson 2-5-2021 11 25',
+ 'tipo': 'Filme',
+ 'titulo': 'Honest Thief '
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2020',
+ 'duracao': '86min',
+ 'elenco': 'Liam Neeson, Lesley Manville, Amit Shah',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2020/02/588787-1-240x320.jpg',
+ 'link': 'https://megafilmes.org/ordinary-love/',
+ 'nomeArquivo': 'Liam Neeson 2-5-2021 11 25',
+ 'tipo': 'Filme',
+ 'titulo': 'Ordinary Love'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '1999',
+ 'duracao': '113min',
+ 'elenco': 'Liam Neeson, Catherine Zeta-Jones, Owen Wilson',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2020/11/11618-240x320.jpg',
+ 'link': 'https://megafilmes.org/a-casa-amaldicoada/',
+ 'nomeArquivo': 'Liam Neeson 2-5-2021 11 25',
+ 'tipo': 'Filme',
+ 'titulo': 'The Haunting'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2020',
+ 'duracao': '99min',
+ 'elenco': 'Liam Neeson, Kate Walsh, Jai Courtney ',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2020/10/553604-240x320.jpg',
+ 'link': 'https://megafilmes.org/ladrao-honesto/',
+ 'nomeArquivo': 'Liam Neeson 2-5-2021 11 25',
+ 'tipo': 'Filme',
+ 'titulo': 'Honest Thief'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '1990',
+ 'duracao': '96min',
+ 'elenco': 'Liam Neeson, Frances McDormand, Colin Friels',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2018/05/9556-240x320.jpg',
+ 'link': 'https://megafilmes.org/darkman-vinganca-sem-rosto/',
+ 'nomeArquivo': 'Liam Neeson 2-5-2021 11 25',
+ 'tipo': 'Filme',
+ 'titulo': 'Darkman'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2014',
+ 'duracao': '116min',
+ 'elenco': 'Seth MacFarlane, Charlize Theron, Amanda Seyfried, Liam Neeson',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2018/12/497257-240x320.jpg',
+ 'link': 'https://megafilmes.org/um-milhao-de-maneiras-de-pegar-na-pistola/',
+ 'nomeArquivo': 'Liam Neeson 2-5-2021 11 25',
+ 'tipo': 'Filme',
+ 'titulo': 'A Million Ways to Die in the West'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2014',
+ 'duracao': '109min',
+ 'elenco': 'Liam Neeson, Forest Whitaker, Maggie Grace',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2016/12/260346-240x320.jpg',
+ 'link': 'https://megafilmes.org/busca-implacavel-3/',
+ 'nomeArquivo': 'Liam Neeson 2-5-2021 11 25',
+ 'tipo': 'Filme',
+ 'titulo': 'Taken 3'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2012',
+ 'duracao': '92min',
+ 'elenco': 'Liam Neeson, Famke Janssen, Maggie Grace',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2020/07/82675-240x320.jpg',
+ 'link': 'https://megafilmes.org/busca-implacavel-2/',
+ 'nomeArquivo': 'Liam Neeson 2-5-2021 11 25',
+ 'tipo': 'Filme',
+ 'titulo': 'Taken 2'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2008',
+ 'duracao': '93min',
+ 'elenco': 'Liam Neeson, Maggie Grace, Famke Janssen',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2017/01/8681-240x320.jpg',
+ 'link': 'https://megafilmes.org/busca-implacavel/',
+ 'nomeArquivo': 'Liam Neeson 2-5-2021 11 25',
+ 'tipo': 'Filme',
+ 'titulo': 'Taken'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2011',
+ 'duracao': '117min',
+ 'elenco': 'Liam Neeson, Dermot Mulroney, Frank Grillo',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2020/07/75174-240x320.jpg',
+ 'link': 'https://megafilmes.org/a-perseguicao/',
+ 'nomeArquivo': 'Liam Neeson 2-5-2021 11 25',
+ 'tipo': 'Filme',
+ 'titulo': 'The Grey'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2011',
+ 'duracao': '113min',
+ 'elenco': 'Liam Neeson, Diane Kruger, January Jones',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2017/03/19874562.jpg-c_215_290_x-f_jpg-q_x-xxyxx-240x320.jpg',
+ 'link': 'https://megafilmes.org/desconhecido/',
+ 'nomeArquivo': 'Liam Neeson 2-5-2021 11 25',
+ 'tipo': 'Filme',
+ 'titulo': 'Unknown'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2012',
+ 'duracao': '99min',
+ 'elenco': 'Sam Worthington, Liam Neeson, Rosamund Pike ',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2019/08/57165-240x320.jpg',
+ 'link': 'https://megafilmes.org/furia-de-titas-2/',
+ 'nomeArquivo': 'Liam Neeson 2-5-2021 11 25',
+ 'tipo': 'Filme',
+ 'titulo': 'Wrath of the Titans'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2019',
+ 'duracao': '119min',
+ 'elenco': 'Liam Neeson, Laura Dern, Micheál Richardson ',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2019/03/tt5719748-240x320.jpg',
+ 'link': 'https://megafilmes.org/vinganca-a-sangue-frio/',
+ 'nomeArquivo': 'Liam Neeson 2-5-2021 11 25',
+ 'tipo': 'Filme',
+ 'titulo': 'Cold Pursuit'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2014',
+ 'duracao': '106min',
+ 'elenco': 'Liam Neeson, Julianne Moore, Scoot McNairy',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2017/01/225574-240x320.jpg',
+ 'link': 'https://megafilmes.org/sem-escalas/',
+ 'nomeArquivo': 'Liam Neeson 2-5-2021 11 25',
+ 'tipo': 'Filme',
+ 'titulo': 'Non-Stop'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2010',
+ 'duracao': '133min',
+ 'elenco': 'Russell Crowe, Elizabeth Banks, Liam Neeson ',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2017/02/43539-240x320.jpg',
+ 'link': 'https://megafilmes.org/72-horas/',
+ 'nomeArquivo': 'Liam Neeson 2-5-2021 11 25',
+ 'tipo': 'Filme',
+ 'titulo': 'The Next Three Days'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2009',
+ 'duracao': '89min',
+ 'elenco': 'Liam Neeson, James Nesbitt, Anamaria Marinca',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2018/12/16759-240x320.jpg',
+ 'link': 'https://megafilmes.org/rastros-de-justica/',
+ 'nomeArquivo': 'Liam Neeson 2-5-2021 11 25',
+ 'tipo': 'Filme',
+ 'titulo': 'Five Minutes of Heaven'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2018',
+ 'duracao': '132min',
+ 'elenco': 'Liam Neeson, James Franco, David Krumholtz, Clancy Brown',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2018/11/537996-240x320.jpg',
+ 'link': 'https://megafilmes.org/the-ballad-of-buster-scruggs/',
+ 'nomeArquivo': 'Liam Neeson 2-5-2021 11 25',
+ 'tipo': 'Filme',
+ 'titulo': 'The Ballad of Buster Scruggs'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2018',
+ 'duracao': '105min',
+ 'elenco': 'Liam Neeson, Vera Farmiga, Patrick Wilson',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2018/02/filmes_11136_posteropassageiro-240x320.jpg',
+ 'link': 'https://megafilmes.org/o-passageiro/',
+ 'nomeArquivo': 'Liam Neeson 2-5-2021 11 25',
+ 'tipo': 'Filme',
+ 'titulo': 'The Commuter'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2009',
+ 'duracao': '96min',
+ 'elenco': 'Julianne Moore, Amanda Seyfried, Liam Neeson ',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2018/04/28211-1-240x320.jpg',
+ 'link': 'https://megafilmes.org/o-preco-da-traicao/',
+ 'nomeArquivo': 'Liam Neeson 2-5-2021 11 25',
+ 'tipo': 'Filme',
+ 'titulo': 'Chloe'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2009',
+ 'duracao': '104min',
+ 'elenco': 'Christina Ricci, Liam Neeson, Justin Long ',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2018/04/36419-240x320.jpg',
+ 'link': 'https://megafilmes.org/alem-da-vida-after-life/',
+ 'nomeArquivo': 'Liam Neeson 2-5-2021 11 25',
+ 'tipo': 'Filme',
+ 'titulo': 'After.Life'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2006',
+ 'duracao': '115min',
+ 'elenco': 'Pierce Brosnan, Liam Neeson, Anjelica Huston',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2018/04/13249-240x320.jpg',
+ 'link': 'https://megafilmes.org/a-procura-da-vinganca/',
+ 'nomeArquivo': 'Liam Neeson 2-5-2021 11 25',
+ 'tipo': 'Filme',
+ 'titulo': 'Seraphim Falls'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2017',
+ 'duracao': '103min',
+ 'elenco': 'Liam Neeson, Diane Lane, Marton Csokas ',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2018/01/unnamed-file-39-240x320.jpg',
+ 'link': 'https://megafilmes.org/mark-felt-o-homem-que-derrubou-a-casa-branca/',
+ 'nomeArquivo': 'Liam Neeson 2-5-2021 11 25',
+ 'tipo': 'Filme',
+ 'titulo': 'Mark Felt: The Man Who Brought Down the White House'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2015',
+ 'duracao': '114min',
+ 'elenco': 'Liam Neeson, Ed Harris, Joel Kinnaman',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2018/01/noite-sem-fim-2-240x320.jpg',
+ 'link': 'https://megafilmes.org/noite-sem-fim/',
+ 'nomeArquivo': 'Liam Neeson 2-5-2021 11 25',
+ 'tipo': 'Filme',
+ 'titulo': 'Run All Night'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2016',
+ 'duracao': '161min',
+ 'elenco': 'Andrew Garfield, Adam Driver, Liam Neeson',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2017/03/Silencio_poster_oficial-240x320.jpg',
+ 'link': 'https://megafilmes.org/silencio/',
+ 'nomeArquivo': 'Liam Neeson 2-5-2021 11 25',
+ 'tipo': 'Filme',
+ 'titulo': 'Silence'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2012',
+ 'duracao': '131min',
+ 'elenco': 'Alexander Skarsgård, Brooklyn Decker, Liam Neeson',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2017/05/download-23-240x320.jpg',
+ 'link': 'https://megafilmes.org/battleship-a-batalha-dos-mares/',
+ 'nomeArquivo': 'Liam Neeson 2-5-2021 11 25',
+ 'tipo': 'Filme',
+ 'titulo': 'Battleship'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2010',
+ 'duracao': '114min',
+ 'elenco': 'Liam Neeson, Bradley Cooper, Jessica Biel',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2017/02/ESQUADRAO-CLASSE-A-240x320.jpg',
+ 'link': 'https://megafilmes.org/esquadrao-classe-a/',
+ 'nomeArquivo': 'Liam Neeson 2-5-2021 11 25',
+ 'tipo': 'Filme',
+ 'titulo': 'The A-Team'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2016',
+ 'duracao': '111min',
+ 'elenco': 'Liam Neeson, Jung-jae Lee, Beom-su Lee',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2017/01/download-13-1-240x320.jpg',
+ 'link': 'https://megafilmes.org/operacao-chromite/',
+ 'nomeArquivo': 'Liam Neeson 2-5-2021 11 25',
+ 'tipo': 'Filme',
+ 'titulo': 'lIn-cheon sang-ryuk jak-jeon'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2015',
+ 'duracao': '84min',
+ 'elenco': 'Liam Neeson, Salma Hayek, Quvenzhané Wallis',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2016/08/download-16-1-240x320.jpg',
+ 'link': 'https://megafilmes.org/o-profeta/',
+ 'nomeArquivo': 'Liam Neeson 2-5-2021 11 25',
+ 'tipo': 'Filme',
+ 'titulo': 'The Prophet'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': 'Menahem Golan',
+ 'duracao': '125min',
+ 'elenco': 'Liam Neeson, Kevin Dillon, Aaron Kaplan',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2016/08/download-1-240x320.jpg',
+ 'link': 'https://megafilmes.org/comando-delta/',
+ 'nomeArquivo': 'Liam Neeson 2-5-2021 11 25',
+ 'tipo': 'Filme',
+ 'titulo': '1986'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||

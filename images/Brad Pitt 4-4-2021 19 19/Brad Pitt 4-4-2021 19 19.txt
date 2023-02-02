@@ -1,0 +1,252 @@
+'ano': '2004',
+ 'duracao': '163min',
+ 'elenco': 'Brad Pitt, Eric Bana, Orlando Bloom',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2018/04/652-240x320.jpg',
+ 'link': 'https://megafilmes.org/troia/',
+ 'nomeArquivo': 'Brad Pitt 4-4-2021 19 19',
+ 'tipo': 'Filme',
+ 'titulo': 'Troy'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '1996',
+ 'duracao': '147min',
+ 'elenco': 'Robert De Niro, Kevin Bacon, Brad Pitt ',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2021/04/819-240x320.jpg',
+ 'link': 'https://megafilmes.org/sleepers-a-vinganca-adormecida/',
+ 'nomeArquivo': 'Brad Pitt 4-4-2021 19 19',
+ 'tipo': 'Filme',
+ 'titulo': 'Sleepers'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2001',
+ 'duracao': '146min',
+ 'elenco': 'Robert Redford, Brad Pitt, Catherine McCormack',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2021/04/1535-240x320.jpg',
+ 'link': 'https://megafilmes.org/jogo-de-espioes/',
+ 'nomeArquivo': 'Brad Pitt 4-4-2021 19 19',
+ 'tipo': 'Filme',
+ 'titulo': 'Spy Game'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2006',
+ 'duracao': '123min',
+ 'elenco': 'Brad Pitt, Cate Blanchett, Gael García Bernal',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2021/04/1164-240x320.jpg',
+ 'link': 'https://megafilmes.org/babel/',
+ 'nomeArquivo': 'Brad Pitt 4-4-2021 19 19',
+ 'tipo': 'Filme',
+ 'titulo': 'Babel'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2017',
+ 'duracao': '136min',
+ 'elenco': 'Brad Pitt, David Thewlis, BD Wong',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2018/03/4-240x320.jpg',
+ 'link': 'https://megafilmes.org/sete-anos-no-tibet/',
+ 'nomeArquivo': 'Brad Pitt 4-4-2021 19 19',
+ 'tipo': 'Filme',
+ 'titulo': 'Seven Years in Tibet'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2001',
+ 'duracao': '123min',
+ 'elenco': 'Brad Pitt, Julia Roberts, James Gandolfini',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2021/04/6073-240x320.jpg',
+ 'link': 'https://megafilmes.org/a-mexicana/',
+ 'nomeArquivo': 'Brad Pitt 4-4-2021 19 19',
+ 'tipo': 'Filme',
+ 'titulo': 'The Mexican'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '1995',
+ 'duracao': '129min',
+ 'elenco': 'Bruce Willis, Madeleine Stowe, Brad Pitt',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2021/03/63-240x320.jpg',
+ 'link': 'https://megafilmes.org/os-12-macacos/',
+ 'nomeArquivo': 'Brad Pitt 4-4-2021 19 19',
+ 'tipo': 'Filme',
+ 'titulo': 'Twelve Monkeys'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '1995',
+ 'duracao': '115 min',
+ 'elenco': 'Morgan Freeman, Brad Pitt, Kevin Spacey',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2016/10/807-240x320.jpg',
+ 'link': 'https://megafilmes.org/patient-seven/',
+ 'nomeArquivo': 'Brad Pitt 4-4-2021 19 19',
+ 'tipo': 'Filme',
+ 'titulo': 'Patient Seven'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2005',
+ 'duracao': '119min',
+ 'elenco': 'Brad Pitt, Angelina Jolie Pitt, Vince Vaughn',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2016/09/787-240x320.jpg',
+ 'link': 'https://megafilmes.org/sr-e-sra-smith/',
+ 'nomeArquivo': 'Brad Pitt 4-4-2021 19 19',
+ 'tipo': 'Filme',
+ 'titulo': 'Mr. & Mrs. Smith'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2015',
+ 'duracao': '134min',
+ 'elenco': 'Brad Pitt, Shia LaBeouf, Logan Lerman',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2020/08/228150-240x320.jpg',
+ 'link': 'https://megafilmes.org/coracoes-de-ferro/',
+ 'nomeArquivo': 'Brad Pitt 4-4-2021 19 19',
+ 'tipo': 'Filme',
+ 'titulo': 'Fury'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2011',
+ 'duracao': '133min',
+ 'elenco': 'Brad Pitt, Jonah Hill, Philip Seymour Hoffman',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2016/04/MV5BMjAxOTU3Mzc1M15BMl5BanBnXkFtZTcwMzk1ODUzNg@@._V1_UX182_CR00182268_AL_-240x320.jpg',
+ 'link': 'https://megafilmes.org/o-homem-que-mudou-o-jogo/',
+ 'nomeArquivo': 'Brad Pitt 4-4-2021 19 19',
+ 'tipo': 'Filme',
+ 'titulo': 'Moneyball'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '1990',
+ 'duracao': '92min',
+ 'elenco': 'Michael Tucker, Juliette Lewis, Brad Pitt',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2020/08/10917-240x320.jpg',
+ 'link': 'https://megafilmes.org/dias-de-violencia/',
+ 'nomeArquivo': 'Brad Pitt 4-4-2021 19 19',
+ 'tipo': 'Filme',
+ 'titulo': 'Too Young to Die?'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '1999',
+ 'duracao': '139min',
+ 'elenco': 'Brad Pitt, Edward Norton, Meat Loaf',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2019/02/550-240x320.jpg',
+ 'link': 'https://megafilmes.org/clube-da-luta/',
+ 'nomeArquivo': 'Brad Pitt 4-4-2021 19 19',
+ 'tipo': 'Filme',
+ 'titulo': 'Fight Club'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2001',
+ 'duracao': '117min',
+ 'elenco': 'George Clooney, Brad Pitt, Julia Roberts',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2016/03/161-240x320.jpg',
+ 'link': 'https://megafilmes.org/onze-homens-e-um-segredo/',
+ 'nomeArquivo': 'Brad Pitt 4-4-2021 19 19',
+ 'tipo': 'Filme',
+ 'titulo': "Ocean's Eleven"
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2019',
+ 'duracao': '123min',
+ 'elenco': 'Brad Pitt, Tommy Lee Jones, Ruth Negga',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2019/12/419704-240x320.jpg',
+ 'link': 'https://megafilmes.org/ad-astra-rumo-as-estrelas/',
+ 'nomeArquivo': 'Brad Pitt 4-4-2021 19 19',
+ 'tipo': 'Filme',
+ 'titulo': 'Ad Astra'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '1994',
+ 'duracao': '123min',
+ 'elenco': 'Brad Pitt, Tom Cruise, Antonio Banderas',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2018/02/628-240x320.jpg',
+ 'link': 'https://megafilmes.org/entrevista-com-o-vampiro/',
+ 'nomeArquivo': 'Brad Pitt 4-4-2021 19 19',
+ 'tipo': 'Filme',
+ 'titulo': 'Interview with the Vampire: The Vampire Chronicles'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2019',
+ 'duracao': '161min',
+ 'elenco': 'Leonardo DiCaprio, Brad Pitt, Margot Robbie',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2019/07/466272-240x320.jpg',
+ 'link': 'https://megafilmes.org/era-uma-vez-em-hollywood/',
+ 'nomeArquivo': 'Brad Pitt 4-4-2021 19 19',
+ 'tipo': 'Filme',
+ 'titulo': 'Once Upon a Time ... in Hollywood'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2000',
+ 'duracao': '104min',
+ 'elenco': 'Jason Statham, Brad Pitt, Benicio Del Toro ',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2019/09/107-240x320.jpg',
+ 'link': 'https://megafilmes.org/snatch-porcos-e-diamantes/',
+ 'nomeArquivo': 'Brad Pitt 4-4-2021 19 19',
+ 'tipo': 'Filme',
+ 'titulo': 'Snatch'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '1993',
+ 'duracao': '117min',
+ 'elenco': 'Brad Pitt, Juliette Lewis, Kathy Larson',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2019/03/10909-240x320.jpg',
+ 'link': 'https://megafilmes.org/kalifornia-uma-viagem-ao-inferno/',
+ 'nomeArquivo': 'Brad Pitt 4-4-2021 19 19',
+ 'tipo': 'Filme',
+ 'titulo': 'Kalifornia'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2013',
+ 'duracao': '116min',
+ 'elenco': 'Brad Pitt, Mireille Enos, Elyes Gabel',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2016/04/72190-240x320.jpg',
+ 'link': 'https://megafilmes.org/guerra-mundial-z/',
+ 'nomeArquivo': 'Brad Pitt 4-4-2021 19 19',
+ 'tipo': 'Filme',
+ 'titulo': 'World War Z'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '1997',
+ 'duracao': '111min',
+ 'elenco': 'Harrison Ford, Brad Pitt, Margaret Colin',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2018/03/3-240x320.jpg',
+ 'link': 'https://megafilmes.org/inimigo-intimo/',
+ 'nomeArquivo': 'Brad Pitt 4-4-2021 19 19',
+ 'tipo': 'Filme',
+ 'titulo': "The Devil's Own"
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2008',
+ 'duracao': '96min',
+ 'elenco': 'Brad Pitt, Frances McDormand, George Clooney',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2018/02/2-11-240x320.jpg',
+ 'link': 'https://megafilmes.org/queime-depois-de-ler/',
+ 'nomeArquivo': 'Brad Pitt 4-4-2021 19 19',
+ 'tipo': 'Filme',
+ 'titulo': 'Burn After Reading'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2017',
+ 'duracao': '121min',
+ 'elenco': 'Brad Pitt, Anthony Hayes, John Magaro ',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2017/05/warmachine-por_f482-240x320.jpg',
+ 'link': 'https://megafilmes.org/maquina-de-guerra/',
+ 'nomeArquivo': 'Brad Pitt 4-4-2021 19 19',
+ 'tipo': 'Filme',
+ 'titulo': 'War Machine'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2017',
+ 'duracao': '124min',
+ 'elenco': 'Brad Pitt, Marion Cotillard, Jared Harris',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2017/02/download-9-4-240x320.jpg',
+ 'link': 'https://megafilmes.org/aliados/',
+ 'nomeArquivo': 'Brad Pitt 4-4-2021 19 19',
+ 'tipo': 'Filme',
+ 'titulo': 'Allied'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2009',
+ 'duracao': '153min',
+ 'elenco': 'Brad Pitt, Mélanie Laurent, Christoph Waltz',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2016/09/download-26-2-240x320.jpg',
+ 'link': 'https://megafilmes.org/bastardos-inglorios/',
+ 'nomeArquivo': 'Brad Pitt 4-4-2021 19 19',
+ 'tipo': 'Filme',
+ 'titulo': ' Inglourious Basterds'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2008',
+ 'duracao': '166min',
+ 'elenco': 'Brad Pitt, Cate Blanchett, Julia Ormond',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2016/09/download-6-2-240x320.jpg',
+ 'link': 'https://megafilmes.org/o-curioso-caso-de-benjamin-button/',
+ 'nomeArquivo': 'Brad Pitt 4-4-2021 19 19',
+ 'tipo': 'Filme',
+ 'titulo': 'The Curious Case of Benjamin Button'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2007',
+ 'duracao': '122min',
+ 'elenco': 'George Clooney, Brad Pitt, Matt Damon',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2016/03/download-19-240x320.jpg',
+ 'link': 'https://megafilmes.org/treze-homens-e-um-novo-segredo/',
+ 'nomeArquivo': 'Brad Pitt 4-4-2021 19 19',
+ 'tipo': 'Filme',
+ 'titulo': "Ocean's Thirteen"
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2004',
+ 'duracao': '125min',
+ 'elenco': 'George Clooney, Brad Pitt, Matt Damon',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2016/03/c3b597643705060d787cc83b3904e8a6-240x320.jpg',
+ 'link': 'https://megafilmes.org/doze-homens-e-outro-segredo/',
+ 'nomeArquivo': 'Brad Pitt 4-4-2021 19 19',
+ 'tipo': 'Filme',
+ 'titulo': "Ocean's Twelve"
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||

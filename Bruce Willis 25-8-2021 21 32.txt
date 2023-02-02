@@ -1,0 +1,9 @@
+'ano': '2021',
+ 'duracao': '99min',
+ 'elenco': 'Megan Fox, Sistine Rose Stallone, Bruce Willis',
+ 'image_urls': 'https://megafilmes4k.org/wp-content/uploads/2021/08/693113-240x320.jpg',
+ 'link': 'https://megafilmes4k.org/meia-noite-no-switchgrass/',
+ 'nomeArquivo': 'Bruce Willis 25-8-2021 21 32',
+ 'tipo': 'Filme',
+ 'titulo': 'Midnight in the Switchgrass'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||

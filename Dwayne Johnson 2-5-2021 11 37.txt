@@ -1,0 +1,225 @@
+'ano': '2018',
+ 'duracao': '102min',
+ 'elenco': 'Dwayne Johnson, Neve Campbell, Pablo Schreiber',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2018/07/447200-240x320.jpg',
+ 'link': 'https://megafilmes.org/arranha-ceu-coragem-sem-limite/',
+ 'nomeArquivo': 'Dwayne Johnson 2-5-2021 11 37',
+ 'tipo': 'Filme',
+ 'titulo': 'Skyscraper'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2016',
+ 'duracao': '103min',
+ 'elenco': 'Dwayne Johnson, Kevin Hart, Amy Ryan',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2016/09/302699-240x320.jpg',
+ 'link': 'https://megafilmes.org/um-espiao-e-meio/',
+ 'nomeArquivo': 'Dwayne Johnson 2-5-2021 11 37',
+ 'tipo': 'Filme',
+ 'titulo': 'Central Intelligence'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2018',
+ 'duracao': '119min',
+ 'elenco': 'Dwayne Johnson, Karen Gillan, Kevin Hart',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2018/03/7-3-240x320.jpg',
+ 'link': 'https://megafilmes.org/jumanji-bem-vindo-a-selva/',
+ 'nomeArquivo': 'Dwayne Johnson 2-5-2021 11 37',
+ 'tipo': 'Filme',
+ 'titulo': 'Jumanji: Welcome to the Jungle'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2019',
+ 'duracao': '123min',
+ 'elenco': 'Dwayne Johnson, Jack Black, Kevin Hart',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2019/12/512200-240x320.jpg',
+ 'link': 'https://megafilmes.org/jumanji-proxima-fase/',
+ 'nomeArquivo': 'Dwayne Johnson 2-5-2021 11 37',
+ 'tipo': 'Filme',
+ 'titulo': 'Jumanji: The Next Level'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2015',
+ 'duracao': '114min',
+ 'elenco': 'Dwayne Johnson, Carla Gugino, Alexandra Daddario',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2017/02/254128-240x320.jpg',
+ 'link': 'https://megafilmes.org/terremoto-a-falha-de-san-andreas/',
+ 'nomeArquivo': 'Dwayne Johnson 2-5-2021 11 37',
+ 'tipo': 'Filme',
+ 'titulo': 'San Andreas'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2017',
+ 'duracao': '136min',
+ 'elenco': 'Vin Diesel, Jason Statham, Dwayne Johnson ',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2017/08/337339-240x320.jpg',
+ 'link': 'https://megafilmes.org/velozes-e-furiosos-8/',
+ 'nomeArquivo': 'Dwayne Johnson 2-5-2021 11 37',
+ 'tipo': 'Filme',
+ 'titulo': 'The Fate of the Furious'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2017',
+ 'duracao': '121min',
+ 'elenco': 'Dwayne Johnson, Zac Efron, Alexandra Daddario',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2017/08/2-1-240x320.jpg',
+ 'link': 'https://megafilmes.org/baywatch-s-o-s-malibu/',
+ 'nomeArquivo': 'Dwayne Johnson 2-5-2021 11 37',
+ 'tipo': 'Filme',
+ 'titulo': 'Baywatch'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2019',
+ 'duracao': '135min',
+ 'elenco': 'Dwayne Johnson, Jason Statham, Idris Elba',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2019/08/384018-1-240x320.jpg',
+ 'link': 'https://megafilmes.org/velozes-furiosos-hobbs-shaw/',
+ 'nomeArquivo': 'Dwayne Johnson 2-5-2021 11 37',
+ 'tipo': 'Filme',
+ 'titulo': 'Fast & Furious Presents: Hobbs & Shaw'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2019',
+ 'duracao': '108min',
+ 'elenco': 'Dwayne Johnson, Lena Headey, Vince Vaughn',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2019/03/445629-1-240x320.jpg',
+ 'link': 'https://megafilmes.org/lutando-pela-familia/',
+ 'nomeArquivo': 'Dwayne Johnson 2-5-2021 11 37',
+ 'tipo': 'Filme',
+ 'titulo': 'Fighting with My Family'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2013',
+ 'duracao': '112min',
+ 'elenco': 'Dwayne Johnson, Susan Sarandon, Jon Bernthal',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2019/06/134411-240x320.jpg',
+ 'link': 'https://megafilmes.org/o-acordo/',
+ 'nomeArquivo': 'Dwayne Johnson 2-5-2021 11 37',
+ 'tipo': 'Filme',
+ 'titulo': 'Snitch'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2004',
+ 'duracao': '86min',
+ 'elenco': 'Dwayne Johnson, Ashley Scott, Johnny Knoxville',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2018/04/11358-1-240x320.jpg',
+ 'link': 'https://megafilmes.org/com-as-proprias-maos/',
+ 'nomeArquivo': 'Dwayne Johnson 2-5-2021 11 37',
+ 'tipo': 'Filme',
+ 'titulo': 'Walking Tall'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2009',
+ 'duracao': '98min',
+ 'elenco': 'Dwayne Johnson, Carla Gugino, AnnaSophia Robb',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2018/12/13836-240x320.jpg',
+ 'link': 'https://megafilmes.org/a-montanha-enfeiticada/',
+ 'nomeArquivo': 'Dwayne Johnson 2-5-2021 11 37',
+ 'tipo': 'Filme',
+ 'titulo': 'Race to Witch Mountain'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2018',
+ 'duracao': '105min',
+ 'elenco': 'Dwayne Johnson, Jeffrey Dean Morgan, Malin Akerman ',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2018/04/MV5BNDA1NjA3ODU3OV5BMl5BanBnXkFtZTgwOTg3MTIwNTM@._V1_UX182_CR00182268_AL_-240x320.jpg',
+ 'link': 'https://megafilmes.org/rampage-destruicao-total/',
+ 'nomeArquivo': 'Dwayne Johnson 2-5-2021 11 37',
+ 'tipo': 'Filme',
+ 'titulo': 'Rampage'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2005',
+ 'duracao': '105min',
+ 'elenco': 'Karl Urban, Rosamund Pike, Dwayne Johnson',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2018/05/8814-240x320.jpg',
+ 'link': 'https://megafilmes.org/doom-a-porta-do-inferno/',
+ 'nomeArquivo': 'Dwayne Johnson 2-5-2021 11 37',
+ 'tipo': 'Filme',
+ 'titulo': 'Doom'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2010',
+ 'duracao': '98min',
+ 'elenco': 'Dwayne Johnson, Billy Bob Thornton, Maggie Grace',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2017/09/rapida-vinganca-1-240x320.jpg',
+ 'link': 'https://megafilmes.org/rapida-vinganca/',
+ 'nomeArquivo': 'Dwayne Johnson 2-5-2021 11 37',
+ 'tipo': 'Filme',
+ 'titulo': 'Faster'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2013',
+ 'duracao': '110min',
+ 'elenco': 'Dwayne Johnson, Channing Tatum, Adrianne Palicki',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2017/08/3-240x320.jpg',
+ 'link': 'https://megafilmes.org/g-i-joe-2-retaliacao/',
+ 'nomeArquivo': 'Dwayne Johnson 2-5-2021 11 37',
+ 'tipo': 'Filme',
+ 'titulo': 'G.I. Joe: Retaliation'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2012',
+ 'duracao': '94min',
+ 'elenco': 'Josh Hutcherson, Dwayne Johnson, Michael Caine',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2017/07/download-10-2-240x320.jpg',
+ 'link': 'https://megafilmes.org/viagem-2-a-ilha-misteriosa/',
+ 'nomeArquivo': 'Dwayne Johnson 2-5-2021 11 37',
+ 'tipo': 'Filme',
+ 'titulo': 'Journey 2: The Mysterious Island'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2017',
+ 'duracao': '81min',
+ 'elenco': 'Dwayne Johnson',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2017/07/71343d12_o-240x320.jpeg',
+ 'link': 'https://megafilmes.org/dificil-decisao/',
+ 'nomeArquivo': 'Dwayne Johnson 2-5-2021 11 37',
+ 'tipo': 'Filme',
+ 'titulo': 'Rock and a Hard Place'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2009',
+ 'duracao': '91min',
+ 'elenco': 'Dwayne Johnson, Seann William Scott, Jessica Biel',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2017/05/download-33-1-240x320.jpg',
+ 'link': 'https://megafilmes.org/planeta-51/',
+ 'nomeArquivo': 'Dwayne Johnson 2-5-2021 11 37',
+ 'tipo': 'Filme',
+ 'titulo': 'Planet 51'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2013',
+ 'duracao': '129min',
+ 'elenco': 'Mark Wahlberg, Dwayne Johnson, Anthony Mackie',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2017/04/21014018_2013061921374075.jpg-c_215_290_x-f_jpg-q_x-xxyxx-240x320.jpg',
+ 'link': 'https://megafilmes.org/sem-dor-sem-ganho/',
+ 'nomeArquivo': 'Dwayne Johnson 2-5-2021 11 37',
+ 'tipo': 'Filme',
+ 'titulo': 'Pain & Gain'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2016',
+ 'duracao': '107min',
+ 'elenco': "Auli'i Cravalho, Dwayne Johnson, Rachel House",
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2017/03/download-18-2-240x320.jpg',
+ 'link': 'https://megafilmes.org/moana-um-mar-de-aventuras/',
+ 'nomeArquivo': 'Dwayne Johnson 2-5-2021 11 37',
+ 'tipo': 'Filme',
+ 'titulo': 'Moana'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2014',
+ 'duracao': '98min',
+ 'elenco': 'Dwayne Johnson, Ian McShane, John Hurt, Rufus Sewell',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2016/05/download-18-240x320.jpg',
+ 'link': 'https://megafilmes.org/hercules-versao-estendida/',
+ 'nomeArquivo': 'Dwayne Johnson 2-5-2021 11 37',
+ 'tipo': 'Filme',
+ 'titulo': 'Hercules'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2011',
+ 'duracao': '131min',
+ 'elenco': 'Vin Diesel, Paul Walker, Dwayne Johnson',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2016/04/MV5BMTUxNTk5MTE0OF5BMl5BanBnXkFtZTcwMjA2NzY3NA@@._V1_UX182_CR00182268_AL_-240x320.jpg',
+ 'link': 'https://megafilmes.org/velozes-furiosos-5-operacao-rio/',
+ 'nomeArquivo': 'Dwayne Johnson 2-5-2021 11 37',
+ 'tipo': 'Filme',
+ 'titulo': ' Fast Five'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2013',
+ 'duracao': '130min',
+ 'elenco': 'Vin Diesel, Paul Walker, Dwayne Johnson',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2016/04/MV5BMTM3NTg2NDQzOF5BMl5BanBnXkFtZTcwNjc2NzQzOQ@@._V1_UX182_CR00182268_AL_-240x320.jpg',
+ 'link': 'https://megafilmes.org/velozes-furiosos-6/',
+ 'nomeArquivo': 'Dwayne Johnson 2-5-2021 11 37',
+ 'tipo': 'Filme',
+ 'titulo': 'Fast & Furious 6'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2003',
+ 'duracao': '95min',
+ 'elenco': 'Dwayne Johnson, Seann William Scott, Christopher Walken',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2016/04/download-20-240x320.jpg',
+ 'link': 'https://megafilmes.org/bem-vindo-a-selva/',
+ 'nomeArquivo': 'Dwayne Johnson 2-5-2021 11 37',
+ 'tipo': 'Filme',
+ 'titulo': 'The Rundown'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||

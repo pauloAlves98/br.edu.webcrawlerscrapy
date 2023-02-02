@@ -1,0 +1,90 @@
+'ano': '2021',
+ 'duracao': '109min',
+ 'elenco': 'Michael B. Jordan, Jodie Turner-Smith, Jamie Bell',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2021/04/567189-240x320.jpg',
+ 'link': 'https://megafilmes.org/sem-remorso/',
+ 'nomeArquivo': 'Michael B. Jordan 2-5-2021 11 15',
+ 'tipo': 'Filme',
+ 'titulo': 'Without Remorse'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2018',
+ 'duracao': '130min',
+ 'elenco': 'Michael B. Jordan, Sylvester Stallone, Tessa Thompson',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2019/01/480530-240x320.jpg',
+ 'link': 'https://megafilmes.org/creed-ii/',
+ 'nomeArquivo': 'Michael B. Jordan 2-5-2021 11 15',
+ 'tipo': 'Filme',
+ 'titulo': 'Creed II'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2015',
+ 'duracao': '133min',
+ 'elenco': 'Michael B. Jordan, Sylvester Stallone, Tessa Thompson',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2020/08/312221-240x320.jpg',
+ 'link': 'https://megafilmes.org/creed-nascido-para-lutar/',
+ 'nomeArquivo': 'Michael B. Jordan 2-5-2021 11 15',
+ 'tipo': 'Filme',
+ 'titulo': 'Creed'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2018',
+ 'duracao': '134min',
+ 'elenco': "Chadwick Boseman, Michael B. Jordan, Lupita Nyong'o",
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2018/05/284054-240x320.jpg',
+ 'link': 'https://megafilmes.org/pantera-negra/',
+ 'nomeArquivo': 'Michael B. Jordan 2-5-2021 11 15',
+ 'tipo': 'Filme',
+ 'titulo': 'Black Panther'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2013',
+ 'duracao': '85min',
+ 'elenco': 'Michael B. Jordan, Melonie Diaz, Octavia Spencer',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2018/03/157354-240x320.jpg',
+ 'link': 'https://megafilmes.org/fruitvale-station-a-ultima-parada/',
+ 'nomeArquivo': 'Michael B. Jordan 2-5-2021 11 15',
+ 'tipo': 'Filme',
+ 'titulo': 'Fruitvale Station'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2019',
+ 'duracao': '126min',
+ 'elenco': 'Brie Larson, Michael B. Jordan, Jamie Foxx ',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2020/01/522212-240x320.jpg',
+ 'link': 'https://megafilmes.org/luta-por-justica/',
+ 'nomeArquivo': 'Michael B. Jordan 2-5-2021 11 15',
+ 'tipo': 'Filme',
+ 'titulo': 'Just Mercy'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2013',
+ 'duracao': '75min',
+ 'elenco': 'Justin Chambers, C. Thomas Howell, Michael B. Jordan',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2019/09/183011-240x320.jpg',
+ 'link': 'https://megafilmes.org/liga-da-justica-ponto-de-ignicao/',
+ 'nomeArquivo': 'Michael B. Jordan 2-5-2021 11 15',
+ 'tipo': 'Filme',
+ 'titulo': 'Justice League: The Flashpoint Paradox '
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2017',
+ 'duracao': '100min',
+ 'elenco': 'Michael B. Jordan, Aaron Davis, Cindy Katz',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2018/05/401905-240x320.jpg',
+ 'link': 'https://megafilmes.org/fahrenheit-451/',
+ 'nomeArquivo': 'Michael B. Jordan 2-5-2021 11 15',
+ 'tipo': 'Filme',
+ 'titulo': 'Fahrenheit 451'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2014',
+ 'duracao': '94min',
+ 'elenco': 'Zac Efron, Michael B. Jordan, Miles Teller',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2017/11/namoro-ou-liberdade-1-240x320.jpg',
+ 'link': 'https://megafilmes.org/namoro-ou-liberdade/',
+ 'nomeArquivo': 'Michael B. Jordan 2-5-2021 11 15',
+ 'tipo': 'Filme',
+ 'titulo': 'That Awkward Moment'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2012',
+ 'duracao': '84min',
+ 'elenco': 'Dane DeHaan, Alex Russell, Michael B. Jordan',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2017/02/227x227bb-240x320.jpg',
+ 'link': 'https://megafilmes.org/poder-sem-limites/',
+ 'nomeArquivo': 'Michael B. Jordan 2-5-2021 11 15',
+ 'tipo': 'Filme',
+ 'titulo': 'Chronicle'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||

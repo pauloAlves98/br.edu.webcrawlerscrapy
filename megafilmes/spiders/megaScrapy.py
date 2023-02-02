@@ -9,12 +9,12 @@ class megaSpider(scrapy.Spider):
     name = 'mega'
 
     # start_urls = [
-    #     'https://megafilmes.org/page/1/?s'
+    #     https://megafilmes4k.org/page/1/?s=
     # ]
 
     def start_requests(self):
         urls = [
-            'https://megafilmes.org/page/1/?s'
+            'https://megafilmes4k.org/page/1/?s='
         ]
         entrada = input('Digite o nome do ator:')
         if entrada is not None:
@@ -48,7 +48,7 @@ class megaSpider(scrapy.Spider):
         info = response.xpath("//div[@class='informacoes clearfix']/ul/li/b/text()").getall()
         iel = 3
         idur = 4
-        print(info[2])
+        #print(info[2])
         if len(info) <= 0:
             return;
 
@@ -68,7 +68,7 @@ class megaSpider(scrapy.Spider):
             'elenco': info[iel],
             'duracao': info[idur],
             'tipo': tipo,
-            #'image_urls': img_url,
+            'image_urls': img_url,
             'link': response.url,
             "nomeArquivo":  nomeFile
             # 'nomeFile':nomeFile

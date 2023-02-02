@@ -1,0 +1,207 @@
+'ano': '2020',
+ 'duracao': '119min',
+ 'elenco': 'Gerard Butler, Morena Baccarin, Roger Dale Floyd',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2020/08/524047-1-240x320.jpg',
+ 'link': 'https://megafilmes.org/destruicao-final-o-ultimo-refugio/',
+ 'nomeArquivo': 'Gerard Butler 21-4-2021 18 52',
+ 'tipo': 'Filme',
+ 'titulo': 'Greenland'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2008',
+ 'duracao': '114min',
+ 'elenco': 'Gerard Butler, Tom Wilkinson, Idris Elba',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2017/10/13809-240x320.jpg',
+ 'link': 'https://megafilmes.org/rocknrolla-a-grande-roubada/',
+ 'nomeArquivo': 'Gerard Butler 21-4-2021 18 52',
+ 'tipo': 'Filme',
+ 'titulo': 'RocknRolla'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2017',
+ 'duracao': '109min',
+ 'elenco': 'Gerard Butler, Jim Sturgess, Abbie Cornish ',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2020/08/274855-240x320.jpg',
+ 'link': 'https://megafilmes.org/tempestade-planeta-em-furia/',
+ 'nomeArquivo': 'Gerard Butler 21-4-2021 18 52',
+ 'tipo': 'Filme',
+ 'titulo': 'Geostorm'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2016',
+ 'duracao': '101min',
+ 'elenco': 'Brenton Thwaites, Nikolaj Coster-Waldau, Gerard Butler',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2016/03/download-10-1-240x320.jpg',
+ 'link': 'https://megafilmes.org/deuses-do-egito-2/',
+ 'nomeArquivo': 'Gerard Butler 21-4-2021 18 52',
+ 'tipo': 'Filme',
+ 'titulo': 'Gods Of Egypt'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2010',
+ 'duracao': '109min',
+ 'elenco': 'Gerard Butler, Jamie Foxx, Leslie Bibb',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2017/03/22803-240x320.jpg',
+ 'link': 'https://megafilmes.org/codigo-de-conduta/',
+ 'nomeArquivo': 'Gerard Butler 21-4-2021 18 52',
+ 'tipo': 'Filme',
+ 'titulo': 'Law Abiding Citizen'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2018',
+ 'duracao': '122min',
+ 'elenco': 'Gerard Butler, Gary Oldman, Common',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2018/11/399402-240x320.jpg',
+ 'link': 'https://megafilmes.org/furia-em-alto-mar/',
+ 'nomeArquivo': 'Gerard Butler 21-4-2021 18 52',
+ 'tipo': 'Filme',
+ 'titulo': 'Hunter Killer'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2011',
+ 'duracao': '123min',
+ 'elenco': 'Ralph Fiennes, Gerard Butler, Brian Cox',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2017/08/101173-240x320.jpg',
+ 'link': 'https://megafilmes.org/coriolano/',
+ 'nomeArquivo': 'Gerard Butler 21-4-2021 18 52',
+ 'tipo': 'Filme',
+ 'titulo': 'Coriolanus'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2018',
+ 'duracao': '101min',
+ 'elenco': 'Gerard Butler, Peter Mullan, Connor Swindells',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2019/01/449459-240x320.jpg',
+ 'link': 'https://megafilmes.org/the-vanishing/',
+ 'nomeArquivo': 'Gerard Butler 21-4-2021 18 52',
+ 'tipo': 'Filme',
+ 'titulo': 'The Vanishing'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2010',
+ 'duracao': '110min',
+ 'elenco': 'Jennifer Aniston, Gerard Butler, Gio Perez ',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2020/02/27573-240x320.jpg',
+ 'link': 'https://megafilmes.org/cacador-de-recompensas/',
+ 'nomeArquivo': 'Gerard Butler 21-4-2021 18 52',
+ 'tipo': 'Filme',
+ 'titulo': 'The Bounty Hunter'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2019',
+ 'duracao': '121min',
+ 'elenco': 'Gerard Butler, Frederick Schmidt, Danny Huston ',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2019/08/423204-240x320.jpg',
+ 'link': 'https://megafilmes.org/invasao-ao-servico-secreto/',
+ 'nomeArquivo': 'Gerard Butler 21-4-2021 18 52',
+ 'tipo': 'Filme',
+ 'titulo': 'Angel Has Fallen'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2019',
+ 'duracao': '21min',
+ 'elenco': 'Jay Baruchel, Gerard Butler, Craig Ferguson ',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2019/11/638507-240x320.jpg',
+ 'link': 'https://megafilmes.org/how-to-train-your-dragon-homecoming/',
+ 'nomeArquivo': 'Gerard Butler 21-4-2021 18 52',
+ 'tipo': 'Filme',
+ 'titulo': 'How to Train Your Dragon: Homecoming'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2010',
+ 'duracao': '98min',
+ 'elenco': 'Jay Baruchel, Gerard Butler, Christopher Mintz-Plasse',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2017/05/10191-240x320.jpg',
+ 'link': 'https://megafilmes.org/como-treinar-o-seu-dragao/',
+ 'nomeArquivo': 'Gerard Butler 21-4-2021 18 52',
+ 'tipo': 'Filme',
+ 'titulo': 'How to Train Your Dragon'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2014',
+ 'duracao': '102min',
+ 'elenco': 'Jay Baruchel, Cate Blanchett, Gerard Butler',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2019/06/82702-240x320.jpg',
+ 'link': 'https://megafilmes.org/como-treinar-o-seu-dragao-2/',
+ 'nomeArquivo': 'Gerard Butler 21-4-2021 18 52',
+ 'tipo': 'Filme',
+ 'titulo': 'How to Train Your Dragon 2'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2006',
+ 'duracao': '115min',
+ 'elenco': ' Gerard Butler, Lena Headey, Rodrigo Santoro ',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2016/03/1271-240x320.jpg',
+ 'link': 'https://megafilmes.org/300-online/',
+ 'nomeArquivo': 'Gerard Butler 21-4-2021 18 52',
+ 'tipo': 'Filme',
+ 'titulo': '300'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2019',
+ 'duracao': '104min',
+ 'elenco': 'Gerard Butler, Cate Blanchett, Jonah Hill',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2019/01/166428-1-240x320.jpg',
+ 'link': 'https://megafilmes.org/como-treinar-o-seu-dragao-3/',
+ 'nomeArquivo': 'Gerard Butler 21-4-2021 18 52',
+ 'tipo': 'Filme',
+ 'titulo': 'How to Train Your Dragon: The Hidden World'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2009',
+ 'duracao': '95min',
+ 'elenco': 'Gerard Butler, Michael C. Hall, Ludacris',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2017/06/download-28-240x320.jpg',
+ 'link': 'https://megafilmes.org/gamer/',
+ 'nomeArquivo': 'Gerard Butler 21-4-2021 18 52',
+ 'tipo': 'Filme',
+ 'titulo': 'Gamer'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2018',
+ 'duracao': '140min',
+ 'elenco': "Gerard Butler, Pablo Schreiber, O'Shea Jackson Jr.",
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2018/06/449443-214x300-240x320.jpg',
+ 'link': 'https://megafilmes.org/covil-de-ladroes-720p/',
+ 'nomeArquivo': 'Gerard Butler 21-4-2021 18 52',
+ 'tipo': 'Filme',
+ 'titulo': 'Den of Thieves'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2018',
+ 'duracao': '140min',
+ 'elenco': "Gerard Butler, Pablo Schreiber, O'Shea Jackson Jr.",
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2018/04/449443-240x320.jpg',
+ 'link': 'https://megafilmes.org/covil-de-ladroes/',
+ 'nomeArquivo': 'Gerard Butler 21-4-2021 18 52',
+ 'tipo': 'Filme',
+ 'titulo': 'Den of Thieves'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2004',
+ 'duracao': '143min',
+ 'elenco': 'Gerard Butler, Emmy Rossum, Patrick Wilson ',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2018/04/9833-240x320.jpg',
+ 'link': 'https://megafilmes.org/o-fantasma-da-opera/',
+ 'nomeArquivo': 'Gerard Butler 21-4-2021 18 52',
+ 'tipo': 'Filme',
+ 'titulo': 'The Phantom of the Opera'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2008',
+ 'duracao': '126min',
+ 'elenco': 'Hilary Swank, Gerard Butler, Harry Connick Jr.',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2018/02/2-5-240x320.jpg',
+ 'link': 'https://megafilmes.org/p-s-eu-te-amo/',
+ 'nomeArquivo': 'Gerard Butler 21-4-2021 18 52',
+ 'tipo': 'Filme',
+ 'titulo': 'P.S. I Love You'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2017',
+ 'duracao': '108min',
+ 'elenco': 'Alison Brie, Gerard Butler, Willem Dafoe',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2017/08/download-5-1-240x320.jpg',
+ 'link': 'https://megafilmes.org/um-homem-de-familia/',
+ 'nomeArquivo': 'Gerard Butler 21-4-2021 18 52',
+ 'tipo': 'Filme',
+ 'titulo': 'A Family Man'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2017',
+ 'duracao': '105min',
+ 'elenco': 'Gerard Butler, Jessica Biel, Dennis Quaid ',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2017/07/download-11-1-240x320.jpg',
+ 'link': 'https://megafilmes.org/um-bom-partido/',
+ 'nomeArquivo': 'Gerard Butler 21-4-2021 18 52',
+ 'tipo': 'Filme',
+ 'titulo': 'Playing for Keeps'
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'ano': '2016',
+ 'duracao': '127 minutosmin',
+ 'elenco': ' Brenton Thwaites, Nikolaj Coster-Waldau, Gerard Butler',
+ 'image_urls': 'https://megafilmes.org/wp-content/uploads/2016/03/358252.jpg-c_215_290_x-f_jpg-q_x-xxyxx-240x320.jpg',
+ 'link': 'https://megafilmes.org/deuses-do-egito/',
+ 'nomeArquivo': 'Gerard Butler 21-4-2021 18 52',
+ 'tipo': 'Filme',
+ 'titulo': ' Gods of Egypt '
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
