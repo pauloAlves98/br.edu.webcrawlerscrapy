@@ -1,7 +1,7 @@
 import scrapy
 from datetime import datetime
 from megafilmes.items import MegafilmesItem
-
+import re
 
 class megaSpider(scrapy.Spider):
     pesquisa = ""
@@ -9,12 +9,12 @@ class megaSpider(scrapy.Spider):
     name = 'mega'
 
     # start_urls = [
-    #     https://megafilmes4k.org/page/1/?s=
+    #https://megafilmesonline.org/assistir/filmes-de-todos/1
     # ]
 
     def start_requests(self):
         urls = [
-            'https://megafilmes4k.org/page/1/?s='
+            'https://megafilmesonline.org/assistir/filmes/lancamento/1'
         ]
         entrada = input('Digite o nome do ator:')
         if entrada is not None:
@@ -27,81 +27,45 @@ class megaSpider(scrapy.Spider):
             yield scrapy.Request(url=url, callback=self.parse)
 
     def parse(self, response):
-
-        # direciona para pagina do filme ou serie
-        for href in response.css('div.item  h2.titulo a::attr(href)'):
-            print("-------- Serie ou Filme ------")
-            print(href.get())
+        # direciona para pagina do Filme
+        for href in response.css('div.generalMoviesList a::attr(href)'):
+           # print("---- LINK Filme -----")
+            #print(href.get())
             yield response.follow(href, self.parse_midia)
-         #next page
-        for href in response.xpath("//div[@class='pagination-wrap']/a[@class='next page-numbers']/@href"):# o for é por causa do retorne do response.
-            #print("----Proxima Pagina-----")
-            print(href.get())
+        #next page
+        for href in response.xpath("//div[@class='paginationSystem']/a[@class='item click next']/@href"):# o for é por causa do retorne do response.
+            #print("----Proxima Página-----")
+            #print(href.get())
             yield response.follow(href, self.parse)
 
     def parse_midia(self, response):
         nomeFile = self.nomeArq
-        print("--------------------------------------------------")
-        tipo = "Serie";
-        if response.xpath("//div[@class='temporadas']").get() is None:
-            tipo = "Filme"
-        info = response.xpath("//div[@class='informacoes clearfix']/ul/li/b/text()").getall()
-        iel = 3
-        idur = 4
-        #print(info[2])
-        if len(info) <= 0:
-            return;
+        print("---------------------PARSE MIDIA - -----------------------------")
+        print(str(response.xpath("//div[@class='moviePresent']/h2/text()").get()).replace("\n",""))
 
-        if len(info) < 7:  # eh pq nao tem diretor
-            if self.pesquisa.upper() in str(info[2]).upper():
-                iel = 2
-                idur = 3
-            else:
-                return
-        elif self.pesquisa.upper() not in str(info[3]).upper():
+        #Verificar se Contem o filtro de busca!
+        if not (self.pesquisa.upper() in str(response.xpath("//span[contains(translate(text(), 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'),'elenco') and @class='prod']/b/text()").get()).upper()):
             return
-        img_url = response.css('div.capa  img::attr(src)').get()
 
+        # Capturando a imagem - pega tudo após url:
+        img_url = re.search(r"url\((.*)\)",
+                            str(response.xpath("//style[contains(text(), 'background-image')]/text()").get())).group(1)
+
+        #Criação do Item PipeLine
         midia = MegafilmesItem({
-            'titulo': (info[0]),
-            'ano': str(info[1]),
-            'elenco': info[iel],
-            'duracao': info[idur],
-            'tipo': tipo,
-            'image_urls': img_url,
+            'titulo': str(response.xpath("//div[@class='moviePresent']/h2/text()").get()).replace("\n",""),
+            'ano': str(response.xpath("//div[@class='year']/b/text()").get()),
+            'elenco': str(response.xpath("//span[contains(translate(text(), 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'),'elenco') and @class='prod']/b/text()").get()),
+            'duracao': re.search(r"Duração:\s*(.*)", str(response.xpath("//span[@class='runtime']/text()").get()), re.IGNORECASE).group(1),
+            'tipo': "Filme",
+            'image_urls': [img_url],
             'link': response.url,
             "nomeArquivo":  nomeFile
-            # 'nomeFile':nomeFile
         })
 
         with open(nomeFile + '.txt', 'a') as arq:
-            # arq.write('Titulo:'+ (info[0])+'\n' +
-            #             'Ano:'+str(info[1])+'\n' +
-            #             'Elenco:' + info[iel]+'\n' +
-            #             'Duracao:' + info[idur]+'\n' +
-            #             'Tipo:' + tipo +'\n' +
-            #             'img_url:' +  img_url  + '\n' +
-            #             'Link:' +response.url+'\n')
             arq.write(str(midia).replace("{", "").replace("}", ""))
             arq.write('\n|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||\n')
 
-        yield MegafilmesItem({#vai para o pipeline ser tratado (automatico)
-            'titulo': (info[0]),
-            'ano': str(info[1]),
-            'elenco': info[iel],
-            'duracao': info[idur],
-            'tipo': tipo,
-            'image_urls': [img_url],
-            'link': response.url,
-            "nomeArquivo": nomeFile
-
-
-            # 'nomeFile':nomeFile
-        })
-        # yield {
-        #     'Titulo': info[0],
-        #     'Ano':info[1],
-        #     'Elenco': info[2],
-        #     'Duracao': info[4],
-        #     'Tipo': tipo,
-        # }
+        # vai para o pipeline ser tratado (automatico)
+        yield midia

@@ -7,23 +7,25 @@
 
 import requests
 from os import path, makedirs
+import re
 
-class MegafilmesPipeline(object):#tem como usar as proprias configurações do scrapy pra baixar (scrapy.pipelines.images.ImagesPipeline)
-
+#tem como usar as próprias configurações do scrapy pra baixar (scrapy.pipelines.images.ImagesPipeline)
+class MegafilmesPipeline(object):
     # def __init__(self):
     #     self.image_dir = path.dirname(path.abspath(__file__)) + "/../images"
     #     if not path.exists(self.image_dir):
     #         makedirs(self.image_dir)
 
     def process_item(self, item, spider):
-        image_dir = path.dirname(path.abspath(__file__)) + "/../images/"+item["nomeArquivo"]#cria o diretorio
+        image_dir = path.dirname(path.abspath(__file__)) + "/../images/"+item["nomeArquivo"]
         if not path.exists(image_dir):
             makedirs(image_dir)
 
         try:
             image_url = item["image_urls"]
             filename = item["titulo"]
-            filepath = image_dir + "/" + filename+".jpg"
+            #Renomeia a Imagem e Extensão
+            filepath = image_dir + "/" + filename+"."+re.search(r"\.(\w+)$", str(image_url[0])).group(1)
             item["images"] = filename
             r = requests.get(str(image_url[0]))#requisição para baixar o content
             with open(filepath, 'wb') as outfile:
